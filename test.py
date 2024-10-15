@@ -14,6 +14,3 @@ print("Welcome "+ username + " to Python Programming!")
 print("Goodbye "+username)
 print("Thank you")
 
-print("Goodbye "+username)
-print("Thank you")
-
